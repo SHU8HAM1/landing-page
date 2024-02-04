@@ -1,0 +1,18 @@
+.container-1{
+    display: flex;
+    background-color: #1F2937;
+    color:white;
+    justify-content: space-between;
+    height: 100px;
+}
+.left{
+    font-size: 24px;
+    font-weight: bolder;
+}
+.right{
+    position: static;
+}
+.ar{
+    color: white;
+    text-decoration: none;
+}
